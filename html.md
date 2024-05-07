@@ -70,7 +70,7 @@
         </p>
         <h2>My Skills</h2>
         <p>
-        **Technical Skills:**
+        Technical Skills:
         - Proficient in **JavaScript**, **React.JS**, **Node.JS**, and **Typescript**
         - Experience with **Postgres**, **Cassandra**, and **SQL**
         - Familiarity with **Open Source RDBMS** and **NoSQL databases**
@@ -78,14 +78,14 @@
         - Proficient in a variety of **AWS tools and services**
         - Experience with **ML algorithms and models**
         
-        **Soft Skills:**
+        Soft Skills:
         - Strong **communication skills** with the ability to share and align on technical designs
-        - Proven ability to demonstrate **urgency**, **prioritization**, and **ownership** to drive issues to completion
+        - Proven ability to demonstrate **urgency**, **prioritization**, and **ownership** to drive issues           to completion
         - Passion for staying on top of tech trends, experimenting with and learning new technologies
         - Experience in **mentoring** other members of the engineering community
         - Ability to **collaborate** with digital product managers to deliver robust cloud-based solutions
         
-        **Methodologies:**
+        Methodologies:
         - Experience with **Agile practices**
         - Familiarity with **open source frameworks**
        </p>
